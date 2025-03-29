@@ -1,5 +1,9 @@
 # Logseq Export Block
 
+<center>
+<a hreft="https://github.com/avelino/logseq-export-block"><img src="./logseq_export_block_logo.png" alt="logseq export block" /></a>
+</center>
+
 A Logseq plugin that allows you to export blocks to various formats with proper formatting, ready to be pasted into different applications.
 
 ## Features

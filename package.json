@@ -18,7 +18,7 @@
   "license": "MIT",
   "logseq": {
     "id": "logseq-export-block",
-    "icon": "./icon.svg",
+    "icon": "./logseq_export_block_logo.png",
     "title": "Export Block",
     "description": "Export blocks to different markdown formats"
   },
