@@ -1,6 +1,6 @@
 {
   "name": "logseq-export-block",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Export Logseq blocks to different markdown formats (Slack, WhatsApp, Google Docs and Rich Text)",
   "main": "dist/index.js",
   "type": "module",
@@ -23,7 +23,7 @@
     "description": "Export blocks to different markdown formats"
   },
   "devDependencies": {
-    "@logseq/libs": "^0.0.15",
+    "@logseq/libs": "^0.0.17",
     "@types/node": "^20.11.24",
     "typescript": "^5.3.3",
     "vite": "^6.2.4"
